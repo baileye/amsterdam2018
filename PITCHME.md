@@ -13,8 +13,8 @@
 #### "How should I prepare to be a father?"
 <br/>
 
-* \#12:&nbsp;You'll be so tired
-* \#7:&nbsp;&nbsp;Don't listen to anyone else
+\#12:&nbsp;You'll be so tired
+\#7:&nbsp;&nbsp;Don't listen to anyone else
 
 ---?image=assets/03-quick_tips.png&size=contain
 @title[Technology]
