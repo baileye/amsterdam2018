@@ -2,9 +2,7 @@
 
 ![28 Weeks Ago](assets/01-28_weeks_ago.jpg)
 
----
-
----?image=assets/01-28_weeks_ago.jpg
+---[28 Weeks Ago]?image=assets/01-28_weeks_ago.jpg&size=auto
 
 ---
 
