@@ -1,6 +1,6 @@
 @title[28 Weeks Ago]
 
----?image=assets/01-28_weeks_ago.jpg&size=contain)
+![28 Weeks Ago](assets/01-28_weeks_ago.jpg)
 
 ---
 
