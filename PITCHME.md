@@ -15,8 +15,8 @@
 #### "How should I prepare to be a father?"
 <br/>
 
-1. You'll be so tired&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12 
-2. Don't listen to anyone else&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7 
+1. \#12:&nbsp;You'll be so tired
+2. \#7:&nbsp;&nbsp;Don't listen to anyone else
 
 ---
 
