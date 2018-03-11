@@ -1,7 +1,3 @@
-@title[28 Weeks Ago]
-
-![28 Weeks Ago](assets/01-28_weeks_ago.jpg)
-
 ---[28 Weeks Ago]?image=assets/01-28_weeks_ago.jpg&size=contain
 
 ---
@@ -20,19 +16,14 @@
 * \#12:&nbsp;You'll be so tired
 * \#7:&nbsp;&nbsp;Don't listen to anyone else
 
----
-
+---?image=assets/03-quick_tips.png&size=contain
 @title[Technology]
 
-![Quick Tips App](assets/03-quick_tips.png)
-
----
+---?image=assets/04-code_with.jpg&size=contain
 
 @title[Code-With]
 
-### Hackathon!
-
-![Code With](assets/04-code_with.jpg)
+### Code With!
 
 ---
 
