@@ -29,7 +29,7 @@
 
 ### Hackathon!
 
-![Code With](04-code_with.jpg)
+![Code With](assets/04-code_with.jpg)
 
 ---
 
