@@ -16,7 +16,7 @@
 <br/>
 
 \#12:&nbsp;You'll be so tired :sleeping:<br/>
-\#7:&nbsp;&nbsp;Don't listen to anyone else :hear_no_evil:
+\#7:&nbsp;&nbsp;Don't listen to anyone else @fa[deaf]
 
 ---?image=assets/03-quick_tips.png&size=contain
 @title[Technology]
