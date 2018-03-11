@@ -32,7 +32,7 @@
 ---
 @title[Conclusion]
 
-## Summary
+## What have I learned?
 
 #### * Drink lots of coffee
 #### * Don't shake your baby
