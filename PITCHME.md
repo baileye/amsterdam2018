@@ -1,5 +1,7 @@
 ---[28 Weeks Ago]?image=assets/01-28_weeks_ago.jpg&size=contain
 
+### 28 Weeks Ago...
+
 ---
 
 @title[3 Men and a Baby]
@@ -13,7 +15,7 @@
 #### "How should I prepare to be a father?"
 <br/>
 
-\#12:&nbsp;You'll be so tired
+\#12:&nbsp;You'll be so tired<br/>
 \#7:&nbsp;&nbsp;Don't listen to anyone else
 
 ---?image=assets/03-quick_tips.png&size=contain
