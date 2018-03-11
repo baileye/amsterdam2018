@@ -32,8 +32,8 @@
 
 ## Summary
 
-### * Drink lots of coffee
-### * Don't shake your baby
+#### * Drink lots of coffee
+#### * Don't shake your baby
 
 ---
 
