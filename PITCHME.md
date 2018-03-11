@@ -1,3 +1,5 @@
+---?image=assets/00-ireland_six_nations_2018.png&size=contain
+
 ---[28 Weeks Ago]?image=assets/01-28_weeks_ago.jpg&size=contain
 
 ### 28 Weeks Ago...
