@@ -15,8 +15,8 @@
 #### "How should I prepare to be a father?"
 <br/>
 
-\#12:&nbsp;You'll be so tired :sleeping:<br/>
-\#7:&nbsp;&nbsp;Don't listen to anyone else @fa[deaf]
+\#12:&nbsp;You'll be so tired @fa[coffee]<br/>
+\#7:&nbsp;Don't listen to anyone else @fa[deaf]
 
 ---?image=assets/03-quick_tips.png&size=contain
 @title[Technology]
@@ -30,6 +30,8 @@
 ---
 @title[Conclusion]
 
+## Summary
+
 ### * Drink lots of coffee
 ### * Don't shake your baby
 
@@ -37,4 +39,4 @@
 
 @title[Thanks]
 
-### Thanks, and wish me luck! :baby:
+### Thanks, and wish me luck! @fa[child]
