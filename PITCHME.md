@@ -14,10 +14,10 @@
 
 #### "How should I prepare to be a father?"
 <br/>
-Answer | \#
------------- | -------------
-You'll be so tired | 12
-Don't listen to anyone else | 7 
+| Answer | \# |
+| ------------ | ------------- |
+| You'll be so tired | 12 |
+| Don't listen to anyone else | 7 |
 
 ---
 
