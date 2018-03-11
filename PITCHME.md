@@ -10,6 +10,29 @@
 
 ---
 
+@title[Peers]
+
+#### "How should I prepare to be a father?"
+<br/>
+##### 1. You'll be so tired
+##### 2. Don't listen to anyone else
+
+---
+
+@title[Technology]
+
+![Quick Tips App](assets/03-quick_tips.png)
+
+---
+
+@title[Code-With]
+
+### Hackathon!
+
+![Code With](04-code_with.jpg)
+
+---
+
 @title[Thanks]
 
 ### Thanks, and wish me luck!
