@@ -36,6 +36,7 @@
 
 #### * Drink lots of coffee
 #### * Don't shake your baby
+#### * Learn how to do things one-handed
 
 ---
 
