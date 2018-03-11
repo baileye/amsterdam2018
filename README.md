@@ -1,2 +1,3 @@
-# amsterdam2018
-Amsterdam 2018 Presentation
+# Amsterdam 2018 - Lighting Talk
+
+[Amsterdam 2018 Presentation](https://gitpitch.com/baileye/amsterdam2018)
