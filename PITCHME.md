@@ -14,8 +14,9 @@
 
 #### "How should I prepare to be a father?"
 <br/>
-##### 1. You'll be so tired
-##### 2. Don't listen to anyone else
+Answer | \#
+You'll be so tired | 12
+Don't listen to anyone else | 7 
 
 ---
 
