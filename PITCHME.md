@@ -43,3 +43,5 @@
 @title[Thanks]
 
 ### Thanks, and wish me luck! @fa[child]
+
+#### CLICK HERE -> http://aka.ms/EoinIsTheBest <- CLICK HERE
